@@ -19,7 +19,11 @@ Given a string containing (), [], and/or {} write a program that returns true or
 
 
 Example:
+
 {[()]} - Balanced
+
 {[(])} - Not Balanced
+
 {adf}() - Balanced
+
 )( - Not Balanced
