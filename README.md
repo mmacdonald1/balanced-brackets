@@ -4,8 +4,11 @@ Today we are going to introduce a new multipurpose data structure. A stack is an
 
 
 let stack = [];
+
 stack.push("{") // [{]
+
 stack.push("(") // [{,(]
+
 stack.pop(")") // [{]
 
 
